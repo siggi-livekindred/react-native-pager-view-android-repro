@@ -13,3 +13,7 @@
 
 ## "Workaround"
 * Swipe right (not left) and observe how buttons become responsive again
+
+
+## Example
+<video src="./docs/react-native-pager.mp4" />
