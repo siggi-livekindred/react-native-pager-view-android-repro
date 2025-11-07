@@ -16,4 +16,4 @@
 
 
 ## Example
-<video src="./docs/react-native-pager.mp4" />
+[react-native-pager.webm](https://github.com/user-attachments/assets/eedfcaa6-bc0d-4209-bda0-03f7335bdbff)
